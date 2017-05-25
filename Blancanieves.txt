@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Habia una ves una princesa muy hermosa, vivia con su madrastra malvada, la hacia trabajar todos los dias hasta agotar
 tanto que se quedaba dormida durante horas sola y aburrida tratando de recuperarse de tanto que hacia
 cada ves se ensañavan mas con ella teniendo que hacer mas trabajo por cosas que hacian a proposito para 
@@ -5,3 +6,6 @@ que ella trabajara mas.
 
 Salio de su cartillo y se dirigio al bosque obscuro y al final encontro una casito
 con dormitorios y una mesa de 7 asientos todo esta en pequeño comento Blancanieves todo esta en juego de 7 que curiosidad me da
+=======
+Habia una ves una princesa muy hermosa, vivia con su madrastra malvada, la hacia trabajar todos los dias hasta agotar
+>>>>>>> 82d13b4b398bbe882250b364e9d846b27fa37a64
